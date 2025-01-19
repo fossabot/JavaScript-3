@@ -14,6 +14,7 @@ JavaScript Repository of TheAlgorithms, which implements various algorithms and 
 [![Contributions Welcome][welcome]](CONTRIBUTING.md)
 [![standard.js][standard-logo]][standard-js]
 [![Discord chat][chat]][discord-server]
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2FJavaScript.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2FJavaScript?ref=badge_shield)
 
 </div>
 
@@ -66,3 +67,7 @@ many of the algorithms can be found in the [wiki][explanation].
 <a href = "https://github.com/TheAlgorithms/JavaScript/graphs/contributors">
   <img src = "https://contrib.rocks/image?repo=TheAlgorithms/JavaScript"/>
 </a>
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2FJavaScript.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2FJavaScript?ref=badge_large)
